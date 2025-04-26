@@ -1,4 +1,5 @@
 #Cloud Computing Practicals
+
 1.Case study on Amazon EC2 and learn about Amazon EC2 web services.
 
 2. Installation and configure Google App Engine.
