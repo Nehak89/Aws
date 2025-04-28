@@ -13,8 +13,8 @@ public class second{
 	
 	
 	//Apex code(write this code in execution cell)
-	String address='recipients address';//give your emailId
-	String subject="LP-2 assignment confirmation";
-	String body="Cloud Computing Assignment 3 implemented successfully';
+	String address='recipients address';//give your emailId for eg.abc@gmail.com
+	String subject='LP-2 assignment confirmation';
+	String body='Cloud Computing Assignment 3 implemented successfully';
 	second.sendMail(address,subject,body);
 	
