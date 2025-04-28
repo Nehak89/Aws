@@ -10,9 +10,9 @@ public class second{
 	
 	
 	
-	//Apex code
-	String Addresses="recipients addresses";
+	//Apex code(write this code in execution cell)
+	String Addresses="recipients addresses";//give emailId
 	String subject="LP-2 assignment confirmation";
-	String body="Cloud Computing Assignment 3 implemented succssfully';
-	second.sendMail(address,subjct,body);
+	String body="Cloud Computing Assignment 3 implemented successfully';
+	second.sendMail(address,subject,body);
 	
