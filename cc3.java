@@ -6,6 +6,7 @@ public class second{
 		 mail.setSubject(subject);
 		 mail.setPlainTextBody(body);
 		 Messaging.SingleEmailMessage(new Messaging.SingleEmailMessage[]{mail});
+		 //Messaging.sendEmail(new Messaging.SingleEmailMessage[]{mail});
 	}
 	
 	
